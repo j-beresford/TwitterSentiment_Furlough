@@ -43,4 +43,3 @@ tweet_words<-tweet_words%>%
 
 
 tweet_words%>%ggplot(aes(created_at, avg_sentiment))+geom_line()+theme_minimal()
-
