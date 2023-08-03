@@ -1,1 +1,2 @@
-# Place to store frequently used code, or things I will come back to
+# Twitter sentitment analysis
+Testing an idea for labour market forecasting
